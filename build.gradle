@@ -13,7 +13,7 @@ buildscript {
         }
     }
     dependencies {
-        classpath "net.minecraftforge.gradle:ForgeGradle:6.+"
+        classpath "net.minecraftforge.gradle:ForgeGradle:5.+"
         classpath "gradle.plugin.com.github.jengelman.gradle.plugins:shadow:7.0.0"
         classpath "gradle.plugin.com.matthewprenger:CurseGradle:1.4.0"
         classpath "de.undercouch:gradle-download-task:4.1.2"
